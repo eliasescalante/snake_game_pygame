@@ -2,7 +2,7 @@
 
 ----
 
-Este es un juego básico de **Snake** desarrollado en Python utilizando la biblioteca **Pygame**. El objetivo del juego es controlar la serpiente para que coma la comida que aparece en la pantalla, haciendo que crezca y aumentando tu puntaje. El juego termina cuando la serpiente toca los bordes de la pantalla o se choca a sí misma.
+Este es un juego básico inspirado en el clasico juego de **Snake** desarrollado en Python utilizando la biblioteca **Pygame**. El objetivo del juego es controlar la serpiente para que coma la comida que aparece en la pantalla, haciendo que crezca y aumentando tu puntaje. El juego termina cuando la serpiente toca los bordes de la pantalla o se choca a sí misma.
 
 -----
 
