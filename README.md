@@ -2,10 +2,18 @@
 
 ----
 
-Mini proyecto usando Pygame del clasico juego de la serpiente
+Este es un juego básico de **Snake** desarrollado en Python utilizando la biblioteca **Pygame**. El objetivo del juego es controlar la serpiente para que coma la comida que aparece en la pantalla, haciendo que crezca y aumentando tu puntaje. El juego termina cuando la serpiente toca los bordes de la pantalla o se choca a sí misma.
 
 -----
 
+## Descripcion
+
+- **Movimiento con Teclado:** Controla la serpiente usando las teclas de flecha (`←`, `→`, `↑`, `↓`).
+- **Puntaje:** Muestra el puntaje actual en la pantalla.
+- **GANA!!:** Si alcanzas los 100 puntos, recibirás un mensaje especial de felicitación.
+- **Botones de Control:** Incluye botones para reiniciar el juego o salir al finalizar.
+
+----
 # Captura del proyecto:
 
 ![Texto alternativo](https://github.com/eliasescalante/snake_game_pygame/blob/main/capture.png)
