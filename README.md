@@ -14,6 +14,11 @@ Este es un juego básico inspirado en el clasico juego de **Snake** desarrollado
 - **Botones de Control:** Incluye botones para reiniciar el juego o salir al finalizar.
 
 ----
+# FUENTE:
+
+https://www.pygame.org/docs/
+
+----
 # Captura del proyecto:
 
 ![Texto alternativo](https://github.com/eliasescalante/snake_game_pygame/blob/main/capture.png)
